@@ -1,1 +1,6 @@
+
 hello from new branch
+
+hi aadit
+
+Fixed merge conflict
